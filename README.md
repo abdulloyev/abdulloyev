@@ -1,5 +1,5 @@
-**👋 Hi, I’m Abdulloyev** Ulug'bek**
-- **📫 Contact me** [![abdulloyev](https://img.shields.io/badge/beootabek-003474?style=flat&logo=telegram)](https://t.me/abdulloyew)
+**👋 Hi, I’m Abdulloyev Ulug'bek**
+- **📫 Contact me** [![abdulloyev](https://img.shields.io/badge/abdulloyev-003474?style=flat&logo=telegram)](https://t.me/abdulloyew)
 
 **📚 My skills**
  - [x] ![C++](https://img.shields.io/badge/C++-003464?style=flat&logo=c%2B%2B&logoColor=%230099ee)
